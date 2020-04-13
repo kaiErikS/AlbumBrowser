@@ -10,7 +10,7 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
     //VARIABLES
     let dgData = DispatchGroup()
     let dgImg = DispatchGroup()
-    let url = "https://theaudiodb.com/api/v1/json/1/mostloved.php?format=album"
+    let url = "https://theaudiodb.com/api/v1/json/5d656564694f534d656564/mostloved.php?format=album"
     var albums: [albumModel] = []
     var imgDict: [NSURL: UIImage] = [:]
     
