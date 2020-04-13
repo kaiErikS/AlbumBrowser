@@ -19,14 +19,21 @@ Uses the api data to search for whichever albums the user likes.
 
 <p align="center">
   <img src="screenshots/search_screen2.png" width=300 height=600>
-  <img src="screenshots/search_screen.png" width=300 height=600>
+  <img src="screenshots/search_screen1.png" width=300 height=600>
 </p>
 
 ### Favorites
 
-Here the user can see all their favorite tracks with an option to edit the list. On the bottom of the screen the application will give suggestions to new music based on the favorite tracks that are stored.
+Here the user can see all their favorite tracks with an option to edit the list. On the bottom of the screen the application will give suggestions to bands and artists based on the favorite tracks that are stored.
 
 <p align="center">
   <img src="screenshots/favorites.png" width=300 height=600>
   <img src="screenshots/favorites_edit.png" width=300 height=600>
 </p>
+
+
+### Cocoapods used
+
+https://cocoapods.org/pods/SVProgressHUD
+https://cocoapods.org/pods/SwiftyJSON
+https://cocoapods.org/pods/Alamofire
