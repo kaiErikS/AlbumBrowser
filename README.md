@@ -32,6 +32,6 @@ Here the user can see all their favorite tracks with an option to edit the list.
 </p>
 
 ### Cocoapods used
-https://cocoapods.org/pods/SVProgressHUD
-https://cocoapods.org/pods/SwiftyJSON
-https://cocoapods.org/pods/Alamofire
+- https://cocoapods.org/pods/SVProgressHUD
+- https://cocoapods.org/pods/SwiftyJSON
+- https://cocoapods.org/pods/Alamofire
