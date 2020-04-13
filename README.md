@@ -1,15 +1,10 @@
-# Top-Music-IOS
+# AlbumBrowser
 
-Sources:
+AlbumBrowser is a native iOS application written in swift where you can browse most loved albums through the years, search for all kinds of other albums and add tracks to your favorites.
 
-The icons used are downloaded from: https://icons8.com/
+### Home
 
-These videos have provided some lines of code and inspiration which i have implemented. Where they have been used has been commented in the code.
-https://www.youtube.com/watch?v=dIXkR-2rdvM
-https://www.youtube.com/watch?v=0iCZVUCTrHk
-
-Cocoapods:
-https://cocoapods.org/pods/SVProgressHUD
-https://cocoapods.org/pods/SwiftyJSON
-https://cocoapods.org/pods/Alamofire
-
+<p align="center">
+  <img src="screenshots/homeScreen.png" width=300 height=600>
+  <img src="screenshots/gameScreen.png" width=300 height=600>
+</p>
