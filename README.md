@@ -5,6 +5,6 @@ AlbumBrowser is a native iOS application written in swift where you can browse m
 ### Home
 
 <p align="center">
-  <img src="screenshots/homeScreen.png" width=300 height=600>
-  <img src="screenshots/gameScreen.png" width=300 height=600>
+  <img src="screenshots/home.png" width=300 height=600>
+  <img src="screenshots/album_detail.png" width=300 height=600>
 </p>
