@@ -31,9 +31,7 @@ Here the user can see all their favorite tracks with an option to edit the list.
   <img src="screenshots/favorites_edit.png" width=300 height=600>
 </p>
 
-
 ### Cocoapods used
-
 https://cocoapods.org/pods/SVProgressHUD
 https://cocoapods.org/pods/SwiftyJSON
 https://cocoapods.org/pods/Alamofire
